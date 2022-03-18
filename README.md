@@ -1,5 +1,5 @@
 # SP-Icecream
-###Project for Secure Programming module.
+### Project for Secure Programming module.
 
 - Using Prepared Statement
 - Using a cryptographic algorithm that imitates PBKDF2 to secure password
